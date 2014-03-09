@@ -1,0 +1,8 @@
+abstract class N
+{
+
+
+abstract void show();
+
+
+}
