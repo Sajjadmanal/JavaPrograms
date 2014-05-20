@@ -2,7 +2,7 @@ class Demo
 {
 
 
-public static void main(String... s)
+public static void main(String... s)               //Demo
 {int x=20;
 Demo d= new Demo();
 Runtime r=Runtime.getRuntime();
