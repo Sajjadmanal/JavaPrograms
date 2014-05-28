@@ -10,7 +10,7 @@ Demo d1= new Demo();
 
 
 }
-public static void main(String... s)
+public static void main(String... s)    //demo
 {
 
 
