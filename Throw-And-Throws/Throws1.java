@@ -1,9 +1,9 @@
-// Using class Throws..
+// Using class Throws...
 
 
 class Throws1
 {
-public static void main(String... s)
+public static void main(String.... s)
 {
 Throws t=new Throws();
 try
@@ -14,6 +14,8 @@ System.out.println(r);
 catch(ArithmeticException e)
 {
 System.out.println(e);
+
+
 
 
 }
