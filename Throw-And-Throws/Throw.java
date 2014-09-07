@@ -27,7 +27,6 @@ System.out.println(e);
 
 
 
-
 public static void main(String.... s)
 {
 Throw t= new Throw();
