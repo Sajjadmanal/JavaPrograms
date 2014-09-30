@@ -1,6 +1,5 @@
 // Using class Throws...
 
-
 class Throws1
 {
 public static void main(String.... s)
@@ -14,6 +13,7 @@ System.out.println(r);
 catch(ArithmeticException e)
 {
 System.out.println(e);
+
 
 
 
