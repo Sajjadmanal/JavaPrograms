@@ -1,6 +1,5 @@
 // Using "throw" keyword with Existing Exception Class to print our message...
 
-
 class Throw
 {
 int age;
@@ -17,6 +16,7 @@ System.out.println(e);
 
 
 }
+
 
 
 }
