@@ -2,6 +2,7 @@ class Arraydemo
 {
 
 
+
 /* 1 maximum */ 
 static int max(int x[])
 {
@@ -169,6 +170,8 @@ System.out.println("\n");
 
 
 
+
+
 /* 6 Sorting */
 static void sort1(int x[][])
 {
@@ -210,6 +213,7 @@ System.out.println("\n");
 
 
 }
+
 
 
 
