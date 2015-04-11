@@ -27,8 +27,6 @@ m=x[i ];
 return m;
 
 
-
-
 }
 /* 2 Maximum */
 static int max1(int x[][])
@@ -48,8 +46,6 @@ if(m<x[i][j])
 m=x[i][j];
 
 
-
-
 }
 
 
@@ -58,10 +54,6 @@ return m;
 
 
 }
-
-
-
-
 
 
 /* 3 Minimum */
