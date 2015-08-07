@@ -1,11 +1,6 @@
 // Finally block....Imp. to know..
 // Only one condition in which Finally block does not executed....
 
-
-
-
-
-
 class Ehandling6
 {
 static int show()
