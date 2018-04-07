@@ -1,4 +1,4 @@
 # JavaPrograms
 ============
 
-Different programs in Java Language I did while learning Java.
+Different programs in Java Language I practiced while learning Java.
